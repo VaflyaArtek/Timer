@@ -41,4 +41,4 @@ function countdown(dateEnd) {
   }
 }
 
-countdown('06/07/2023 21:00:00');
+countdown('06/12/2023 21:00:00');
